@@ -1,8 +1,8 @@
 import time
 
-from landingfolio.config import HEADERS
-from landingfolio.download_images import download_images
-from landingfolio.get_json_data import get_data_file
+from landingfolio.landingfolio_parser.config import HEADERS
+from landingfolio.landingfolio_parser.download_images import download_images
+from landingfolio.landingfolio_parser.get_json_data import get_data_file
 
 
 def main():

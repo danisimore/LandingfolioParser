@@ -1,0 +1,1 @@
+This file is needed to push the data folder, because it is necessary for the script to work correctly.
