@@ -10,6 +10,9 @@ The parser that collects from the site [landingfolio.com](https://landingfolio.c
 &nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: Template description.  
 
 ## How to run the parser? :rocket:
+
+:bangbang: You must have installed Python and Git :bangbang:
+
 1. First you need to clone this repozitory:
    - Create some folder;
    - Copy the path to this folder:  
